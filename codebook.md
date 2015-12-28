@@ -1,10 +1,12 @@
-# Codebook for run_analysis.R script and the resulting summary dataset - sumamry_final.txt
+# Codebook
+
+Below is the codebook for run_analysis.R script and the resulting summary dataset - sumamry_final.txt
 
 
- $ Subject
+'$ Subject
  : int  1 1 1 1 1 1 2 2 2 2 ...
  
- $ Activity
+'$ Activity
  : Factor w/ 6 levels:
 	1 - WALKING
 	2 - WALKING_UPSTAIRS
