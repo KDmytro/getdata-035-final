@@ -3,17 +3,17 @@
 Below is the codebook for run_analysis.R script and the resulting summary dataset - sumamry_final.txt
 
 
-'$ Subject
+$ Subject
  : int  1 1 1 1 1 1 2 2 2 2 ...
  
-'$ Activity
+$ Activity
  : Factor w/ 6 levels:
-	1 - WALKING
-	2 - WALKING_UPSTAIRS
-	3 - WALKING_DOWNSTAIRS
-	4 - SITTING
-	5 - STANDING
-	6 - LAYING
+	1. WALKING
+	2. WALKING_UPSTAIRS
+	3. WALKING_DOWNSTAIRS
+	4. SITTING
+	5. STANDING
+	6. LAYING
  : 1 2 3 4 5 6 1 2 3 4 ...
 
 the rest of the data represents a summary of the averages for each of the following features of the original data set:
