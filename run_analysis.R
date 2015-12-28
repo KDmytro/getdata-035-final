@@ -60,4 +60,4 @@ summary_final <- group_by(summary_set,Subject, Activity) %>% summarize_each("mea
 # SECTION 5 - WRITING SUMMARY FILE
 # ***************************************
 
-write.table(summary_final, "data/summary_final.txt", row.names = FALSE)
+write.table(summary_final, "summary_final.txt", row.names = FALSE)
